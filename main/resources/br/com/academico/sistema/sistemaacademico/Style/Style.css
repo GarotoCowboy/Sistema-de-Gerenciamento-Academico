@@ -1,0 +1,16 @@
+AnchorPane{
+    -fx-background-color: #259073;
+}
+
+.MainButton{
+    -fx-background-color: red;
+    -fx-min-width: 1rem;
+    -fx-min-height: 1.5rem;
+    -fx-border-width: 7px;
+    -fx-border-color: #2234db;
+    -fx-cursor: pointer;
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+    
+    /*border: 7px inset #2334db;*/
+}
